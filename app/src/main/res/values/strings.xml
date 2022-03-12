@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">supun_sulakshana_android_practical</string>
+
+    <string name="newOne">New</string>
+    <string name="productimg">Product</string>
+    <string name="backbtn">backbtn</string>
+    <string name="details">Details</string>
+    <string name="bellicon">bellIcon</string>
+    <string name="sharebtn">sharebtn</string>
+    <string name="productprice">$299</string>
+    <string name="saleprice">$350</string>
+    <string name="soldvalue">> 500 sold</string>
+    <string name="protitle">Night Vision HD</string>
+    <string name="favimg">favimg</string>
+    <string name="ratevalue">48</string>
+    <string name="cashback">cashback 10%</string>
+    <string name="fourtyeight">48</string>
+    <string name="productinfo">Product Information :</string>
+    <string name="alerttype">Alert Type</string>
+    <string name="audiomotion">Audio &amp; Motion</string>
+    <string name="tech">Technology</string>
+    <string name="brand">Brand</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="zumimall">ZIMIMALL</string>
+    <string name="resoulation">Resoulution</string>
+    <string name="pix">1080P</string>
+    <string name="audio_motion"><![CDATA[Audio & Motion]]></string>
+</resources>
